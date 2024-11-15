@@ -24,6 +24,7 @@ O projeto deve ser feito utilizando as boas práticas de prompt engineer.
 - [📅 Dias Disponíveis para Treino](#-dias-disponíveis-para-treino)
 - [🎯 Objetivo](#-Objetivo)
 - [🏋️ Tipos de Exercícios](#️-tipos-de-exercícios)
+- [📝 Bioimpedância](#️-Bioimpedância)
 - [🛠️ Regras de negócio](#️-regras-de-negócio)
 - [📖 Material de Apoio](#-material-de-apoio)
 - [🎯 Prompt de Resposta Proposto](#-prompt-de-resposta-proposto)
@@ -93,10 +94,9 @@ A segunda regra é determinar quantos dias por semana o usuário tem disponível
 
 ---
 
----
-## 🎯 Objetivo
+## 🎯 Objetivos
 
-Terceira regra considere informar o objetivo, pois isso irá ajudar o assistente a providenciar o melhor treino, considerando esse dado especifico. Abaixo temos descrito os tipos de objetivos:
+Terceira regra temos que considerar o objetivo do usuário, pois isso irá ajudar o assistente a providenciar o melhor treino. Abaixo temos descrito os tipos de objetivos:
 
 -**Hipertrofia Muscular**: Objetivo: Aumento do volume muscular. Significado: Treinamento focado em desenvolver o tamanho das fibras musculares, geralmente através de repetições moderadas e carga progressiva.
 
