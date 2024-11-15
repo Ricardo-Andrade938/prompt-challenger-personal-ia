@@ -95,7 +95,27 @@ A segunda regra é determinar quantos dias por semana o usuário tem disponível
 ---
 ## 🎯 Objetivo
 
+Informar o objetivo irá ajudar o assistente a providenciar o melhor treino, considerando esse dado especifico. Abaixo temos descrito os tipos de objetivos:
 
+-**Hipertrofia Muscular**: Objetivo: Aumento do volume muscular. Significado: Treinamento focado em desenvolver o tamanho das fibras musculares, geralmente através de repetições moderadas e carga progressiva.
+
+-**Definição Muscular**: Objetivo: Redução de gordura para exibir melhor o contorno muscular. Significado: Treinamento que combina trabalho muscular e atividades aeróbicas, visando a manutenção muscular com baixa gordura corporal.
+
+-**Perda de Peso**: Objetivo: Redução do peso corporal total, geralmente focado em gordura. Significado: Treinamento aeróbico e de resistência, com controle alimentar, para reduzir o peso e melhorar a composição corporal.
+
+-**Powerlifting**: Objetivo: Aumento de força máxima. Significado: Foco nos levantamentos básicos (agachamento, supino e levantamento terra) com baixa repetição e carga elevada, visando desenvolver força absoluta.
+
+-**Condicionamento Físico Geral**: Objetivo: Melhora da saúde e capacidade física geral. Significado: Exercícios variados para melhorar resistência, flexibilidade, força e saúde cardiovascular, com foco em bem-estar.
+
+-**Treinamento Funcional**: Objetivo: Melhorar a funcionalidade e desempenho das atividades do dia a dia. Significado: Exercícios que imitam movimentos cotidianos, visando equilíbrio, força e coordenação para o corpo funcionar de forma mais eficiente.
+
+-**Aumento de Resistência Cardiovascular**: Objetivo: Melhorar a capacidade cardiorrespiratória. Significado: Exercícios aeróbicos de longa duração e intensidade moderada a alta, para fortalecer o sistema cardiovascular e aumentar a capacidade aeróbica.
+
+-**Reabilitação Física**: Objetivo: Recuperação e fortalecimento após lesões ou cirurgias. Significado: Exercícios específicos e progressivos para ajudar na recuperação de funções e na prevenção de novas lesões, sempre com orientação médica.
+
+-**Mobilidade e Flexibilidade**: Objetivo: Aumentar a amplitude de movimento e prevenir lesões. Significado: Foco em alongamentos, mobilidade articular e exercícios de flexibilidade, ajudando na performance e diminuindo o risco de lesões.
+
+-**Performance Esportiva**: Objetivo: Aumentar a capacidade física específica para um esporte. Significado: Treinamento adaptado às demandas do esporte, como agilidade, explosão e resistência, focando em melhorar o desempenho atlético específico.
 
 ---
 
