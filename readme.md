@@ -134,7 +134,7 @@ A quarta regra envolve a escolha do tipo de exercício preferido. Aqui estão al
 
 ---
 
-## 📝Bioimpedância
+## 📝 Bioimpedância
 
 Quinta regra, caso possua um exame de bioimpedância, compartilhe para que o assistente consiga compartilhar um treino adequado ao seu arquétipo físico.
 
