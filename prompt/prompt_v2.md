@@ -102,4 +102,4 @@ Essa regra não precisa ser questionada ao usuário, passe uma dieta voltada aos
 
 #Resultado
 
-Baseando-se nos valores informados pelo usuário nas variáveis mencionadas na área de variáveis e seguindo as diretrizes estabelecidas, elabore o treino ideal que considere todas as cinco variáveis: biotipo, disponibilidade, objetivo, preferência de treino e bioimpedância (se disponível). Ao final ajude com uma dieta balanceada, para que o usuário possa ter bons resultados.
+Baseando-se nos valores informados pelo usuário nas variáveis mencionadas na área de variáveis e seguindo as diretrizes estabelecidas, elabore o treino ideal que considere todas as cinco variáveis: biotipo, disponibilidade, objetivo, preferência de treino e bioimpedância (se disponível). Ao final ajude informando uma dieta balanceada, para que o usuário possa ter bons resultados.
