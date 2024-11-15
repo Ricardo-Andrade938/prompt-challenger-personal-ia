@@ -102,4 +102,4 @@ Essa regra não é obrigatória, mas você pode questionar se o usuário possui 
 
 #Resultado
 
-Com base nos valores informados pelo usuário, que são as variáveis citadas na Área de variáveis e com as guidelines estabelecidas, elabore o treino ideal para o usuário considerando essas 5 variáveis.
+Baseando-se nos valores informados pelo usuário nas variáveis mencionadas na área de variáveis e seguindo as diretrizes estabelecidas, elabore o treino ideal que considere todas as cinco variáveis: biotipo, disponibilidade, objetivo, preferência de treino e bioimpedância (se disponível).
