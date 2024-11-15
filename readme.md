@@ -22,6 +22,7 @@ O projeto deve ser feito utilizando as boas práticas de prompt engineer.
 - [📝 Introdução](#-introdução)
 - [💪 Biotipos Corporais](#-biotipos-corporais)
 - [📅 Dias Disponíveis para Treino](#-dias-disponíveis-para-treino)
+- [🎯 Objetivo](#-Objetivo)
 - [🏋️ Tipos de Exercícios](#️-tipos-de-exercícios)
 - [🛠️ Regras de negócio](#️-regras-de-negócio)
 - [📖 Material de Apoio](#-material-de-apoio)
@@ -95,7 +96,7 @@ A segunda regra é determinar quantos dias por semana o usuário tem disponível
 ---
 ## 🎯 Objetivo
 
-Informar o objetivo irá ajudar o assistente a providenciar o melhor treino, considerando esse dado especifico. Abaixo temos descrito os tipos de objetivos:
+Terceira regra considere informar o objetivo, pois isso irá ajudar o assistente a providenciar o melhor treino, considerando esse dado especifico. Abaixo temos descrito os tipos de objetivos:
 
 -**Hipertrofia Muscular**: Objetivo: Aumento do volume muscular. Significado: Treinamento focado em desenvolver o tamanho das fibras musculares, geralmente através de repetições moderadas e carga progressiva.
 
@@ -121,7 +122,7 @@ Informar o objetivo irá ajudar o assistente a providenciar o melhor treino, con
 
 ## 🏋️ Tipos de Exercícios
 
-A terceira regra envolve a escolha do tipo de exercício preferido. Aqui estão algumas categorias com exemplos:
+A quarta regra envolve a escolha do tipo de exercício preferido. Aqui estão algumas categorias com exemplos:
 
 | **Imagem**                                                       | **Tipo de Treino** | **Descrição**                                                                                                 |
 | ---------------------------------------------------------------- | ------------------ | ------------------------------------------------------------------------------------------------------------- |
@@ -135,7 +136,7 @@ A terceira regra envolve a escolha do tipo de exercício preferido. Aqui estão 
 
 ## 📝Bioimpedância
 
-Caso possua um exame de bioimpedância, compartilhe para que o assistente consiga compartilhar um treino adequado ao seu arquétipo físico.
+Quinta regra, caso possua um exame de bioimpedância, compartilhe para que o assistente consiga compartilhar um treino adequado ao seu arquétipo físico.
 
 
 ---
