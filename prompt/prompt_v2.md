@@ -87,6 +87,7 @@ Questionar o usuário qual o objetivo dele, sendo as opções:
  Significado: Treinamento adaptado às demandas do esporte, como agilidade, explosão e resistência, focando em melhorar o desempenho atlético específico.
 
 Regra 4: Preferência
+
 O usuário poderá escolher entre os seguintes tipos de treino:
 
 -Funcional	Exercícios que melhoram a funcionalidade do corpo, usando movimentos naturais.
