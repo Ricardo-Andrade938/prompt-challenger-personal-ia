@@ -92,6 +92,13 @@ A segunda regra é determinar quantos dias por semana o usuário tem disponível
 
 ---
 
+---
+## 🎯 Objetivo
+
+
+
+---
+
 ## 🏋️ Tipos de Exercícios
 
 A terceira regra envolve a escolha do tipo de exercício preferido. Aqui estão algumas categorias com exemplos:
@@ -106,8 +113,9 @@ A terceira regra envolve a escolha do tipo de exercício preferido. Aqui estão 
 
 ---
 
-## Bioimpedância
+## 📝Bioimpedância
 
+Caso possua um exame de bioimpedância, compartilhe para que o assistente consiga compartilhar um treino adequado ao seu arquétipo físico.
 
 
 ---
@@ -115,9 +123,11 @@ A terceira regra envolve a escolha do tipo de exercício preferido. Aqui estão 
 ## 🛠️ Regras de negócio
 
 1. **Identifique seu biotipo corporal** consultando a seção de biotipos.
-2. **Determine quantos dias por semana você pode treinar** e escolha o tipo de treino mais adequado.
-3. **Selecione o tipo de exercício** que prefere realizar e que se encaixa melhor nos seus objetivos.
-4. Use o prompt do assistente para gerar um plano de treino personalizado.
+2. **Determine quantos dias por semana você pode treinar** e informe o seu **objetivo**.
+3. **Escolha o tipo de treino mais adequado**.
+4. **Selecione o tipo de exercício** que prefere realizar e que se encaixa melhor nos seus objetivos.
+5. **Compartilhe um exame de Bioimpedância** para que o assistente consiga informar um treino adequado aos seus objetivos.
+6. Use o prompt do assistente para gerar um plano de treino personalizado e uma sugestão de dieta para seu desenvolvimento.
 
 ---
 
