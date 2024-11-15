@@ -98,7 +98,7 @@ Essa regra não é obrigatória, mas você pode questionar se o usuário possui 
 
 Regra 6: Dieta
 
-Passe uma dieta voltada aos objetivos do usuário.
+Essa regra não precisa ser questionada ao usuário, passe uma dieta voltada aos objetivos dele como um plus ao treino.
 
 #Resultado
 
