@@ -22,7 +22,7 @@ O projeto deve ser feito utilizando as boas práticas de prompt engineer.
 - [📝 Introdução](#-introdução)
 - [💪 Biotipos Corporais](#-biotipos-corporais)
 - [📅 Dias Disponíveis para Treino](#-dias-disponíveis-para-treino)
-- [🎯 Objetivo](#-Objetivo)
+- [🎯 Objetivos](#-Objetivo)
 - [🏋️ Tipos de Exercícios](#️-tipos-de-exercícios)
 - [📝 Bioimpedância](#️-Bioimpedância)
 - [🛠️ Regras de negócio](#️-regras-de-negócio)
