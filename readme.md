@@ -24,7 +24,7 @@ O projeto deve ser feito utilizando as boas práticas de prompt engineer.
 - [📅 Dias Disponíveis para Treino](#-dias-disponíveis-para-treino)
 - [🎯 Objetivos](#-Objetivos)
 - [🏋️ Tipos de Exercícios](#️-tipos-de-exercícios)
-- [📝 Bioimpedância](#️-Bioimpedância)
+- [📝 Bioimpedância](#️-bioimpedância)
 - [🛠️ Regras de negócio](#️-regras-de-negócio)
 - [📖 Material de Apoio](#-material-de-apoio)
 - [🎯 Prompt de Resposta Proposto](#-prompt-de-resposta-proposto)
