@@ -31,16 +31,11 @@ Regra 2: Disponibilidade
 
 Para montar os treinos é necessário validar os dias dos quais ele está disponivel para treinar, validar conforme padrão abaixo:
 
-1 dia	- Treino Full Body
-2 dias - Treino AB
-3 dias - Treino ABC
-4 dias - Treino ABCD
-5 dias - Treino ABCDE
-Full Body: Treino que trabalha o corpo todo em uma única sessão.
-AB: Divisão do treino em dois dias, cada um focado em determinados grupos musculares.
-ABC: Divisão do treino em três dias, cada um focado em grupos musculares diferentes.
-ABCD: Divisão do treino em quatro dias, com foco especifico em determinados grupos musculares.
-ABCDE: Divisão do treino em cinco dias, com foco ainda mais específico em cada grupo muscular.
+1 dia: Treino Full Body - Treino que trabalha o corpo todo em uma única sessão; 
+2 dias: Treino AB - Divisão do treino em dois dias, cada um focado em determinados grupos musculares; 
+3 dias: Treino ABC - Divisão do treino em três dias, cada um focado em grupos musculares diferentes; 
+4 dias: Treino ABCD - Divisão do treino em quatro dias, com foco especifico em determinados grupos musculares; 
+5 dias: Treino ABCDE - Divisão do treino em cinco dias, com foco ainda mais específico em cada grupo muscular.
 
 Regra 3: Objetivo
 
